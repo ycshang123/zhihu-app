@@ -26,9 +26,17 @@
 	color:#a590a6 ;
 	text-decoration: none;
 }
+.middle_font{
+	font-size: 14px;
+	color:#a590a6 ;
+}
 .small_font{
 	font-size: 12px;
 	color:#a590a6 ;
+}
+.blue_font{
+	font-size: 14px;
+	color: #0084ff;
 }
 .big_button{
 	width: 200px;
