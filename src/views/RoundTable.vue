@@ -12,17 +12,6 @@
 				<span class="nav-font">发现</span>
 				<span class="nav-font">消息</span>
 			</div>
-			<!-- <img src="../assets/image/blueFont.png" class="padding-left">
-			<div>
-			<input type="text" placeholder="搜索你感兴趣的内容" class="input_text">	
-			<button class="small_btn explore">
-				<img src="../assets/image/explore.png" class="img_explore">
-			</button>
-			</div>
-			
-			<span class="nav-font">首页</span>
-			<span class="nav-font">发现</span>
-			<span class="nav-font" >消息</span> -->
 			<div class="right">
 				<button class="nomal_button explore">提问</button>
 				<span class="nav-font">去登录</span>

@@ -1,99 +1,139 @@
-.nomal_button{
+.nomal_button {
 	width: 60px;
 	height: 35px;
 	border-radius: 5px;
-		border: none;
+	border: none;
 }
-.low_button{
+
+.low_button {
 	width: 100px;
 	height: 30px;
 	border-radius: 5px;
 	border: none;
 }
-.bule_bts{
+
+.bule_bts {
 	background: #40a3ff;
 	color: white;
-	
+
 }
-.blue_bts{
+
+.blue_bts {
 	background: #ebf5ff;
 	color: #0084ff;
 	font-weight: 600;
 }
-.nomal_font{
+
+.nomal_font {
 	font-size: 16px;
 	font-weight: 300;
-	color:#a590a6 ;
+	color: #a590a6;
 	text-decoration: none;
 }
-.middle_font{
+
+.middle_font {
 	font-size: 14px;
-	color:#a590a6 ;
+	color: #a590a6;
 }
-.small_font{
+
+.small_font {
 	font-size: 12px;
-	color:#a590a6 ;
+	color: #a590a6;
 }
-.blue_font{
+
+.blue_font {
 	font-size: 14px;
 	color: #0084ff;
 }
-.big_button{
+
+.big_button {
 	width: 200px;
 	height: 60px;
-	border-radius:30px;
+	border-radius: 30px;
 	border: none;
 }
-.gray_bts{
+
+.gray_bts {
 	background: #ffffff;
 	color: #8590a6;
-	font-weight:600;
+	font-weight: 600;
 }
-.small_btn{
+
+.small_btn {
 	width: 40px;
 	height: 30px;
 	border: none;
 	border-radius: 3px;
 }
-.explore{
+
+.explore {
 	background: #0d76e1;
-	color:#ffffff;
+	color: #ffffff;
 	font-size: 700;
 }
-.white_btn{
+
+.white_btn {
 	background: #FFFFFF;
 	color: #0000ff;
 	font-size: 14px;
 	font-weight: 800;
 }
-.icon{
+
+.icon {
 	fill: #0084ff;
 }
-.middle-title{
+
+.middle-title {
 	font-size: 16px;
-	color:#a590a6;
+	color: #a590a6;
 	font-weight: 600;
 }
-.avatar{
-		width: 20px;
-		height: 20px;
-	}
-	.gray-icon{
-		fill:#a4acbc;
-	}
-	.shadow{
-		box-shadow: 0px 0px 2px 0px #aaa;
-		/* box-shadow: 2px 5px 10px #aaa; */
-	}
-.bar_btn{
+
+.avatar {
+	width: 20px;
+	height: 20px;
+}
+
+.gray-icon {
+	fill: #a4acbc;
+}
+
+.shadow {
+	box-shadow: 0px 0px 2px 0px #aaa;
+	/* box-shadow: 2px 5px 10px #aaa; */
+}
+
+.bar_btn {
 	width: 100px;
 	height: 40px;
 	border: 1px solid #0084ff;
 	border-radius: 5px;
 	font-size: 14px;
 	background: #FFFFFF;
-	color:#0084ff ;
+	color: #0084ff;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+.deepBlue-font{
+	color: #175199;
+	font-size: 14px;
+	cursor: pointer;
+}
+.small_blue_btn {
+	width: 40px;
+	height: 30px;
+	border: none;
+	background: #ebf5ff;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.radiusSmall-btn{
+	width: 50px;
+	height: 30px;
+	border-radius: 50px;
+	border:1px solid #8590a6;
+	color: #8590a6;
+	background: #FFFFFF;
 }
